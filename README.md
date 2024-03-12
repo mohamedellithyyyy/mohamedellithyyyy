@@ -6,7 +6,7 @@ software developer
 I am a first-year business student at Ain Shams University
 
 * 🌍  I'm based in Egypt,Cairo
-* 🖥️  See my portfolio at [The Awsome Portfolio](mohamedellithy.com)
+* 🖥️  See my portfolio at [Portfolio](mohamedellithy.com)
 * ✉️  You can contact me at [mohamedellithyyy@gmail.com](mailto:mohamedellithyyy@gmail.com)
 * 🧠  I'm learning Threejs, NEXTjs and React/React-Native
 * 🤝  I'm open to collaborating on any web or animation project
@@ -41,9 +41,9 @@ I am a first-year business student at Ain Shams University
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/mohamedellithyyyy"><img src="https://github-readme-stats.vercel.app/api?username=mourra950&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mourra950's GitHub stats" /></a>
+<a href="http://www.github.com/mohamedellithyyyy"><img src="https://github-readme-stats.vercel.app/api?username=mohamedellithyyyy&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mourra950's GitHub stats" /></a>
 
-<a href="http://www.github.com/mohamedellithyyyy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mourra950&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/mohamedellithyyyy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedellithyyyy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <!--
 **mohamedellithyyyy/mohamedellithyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
