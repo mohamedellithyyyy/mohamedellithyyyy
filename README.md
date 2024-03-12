@@ -36,17 +36,15 @@ I am a first-year business student at Ain Shams University
 ### Socials
 
 <p align="center"> <a href="https://www.github.com/mohamedellithyyyy" target="_blank" rel="noreferrer"> <a href="http://www.instagram.com/mohamedellithyyy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mohamedellithyyy/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/mourra950"><img src="https://github-readme-stats.vercel.app/api?username=mourra950&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mourra950's GitHub stats" /></a>
+<a href="http://www.github.com/mohamedellithyyy"><img src="https://github-readme-stats.vercel.app/api?username=mourra950&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mourra950's GitHub stats" /></a>
 
-<a href="http://www.github.com/mourra950"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mourra950&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/mohamedellithyyy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mourra950&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-
-<!-- [![Repos Badge](https://badges.pufler.dev/repos/mourra950)](https://badges.pufler.dev) -->
-<img src="https://komarev.com/ghpvc/?username=mourra950&label=Profile%20views&color=0e75b6&style=flat" alt="mourra950" />
 <!--
 **mohamedellithyyyy/mohamedellithyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
