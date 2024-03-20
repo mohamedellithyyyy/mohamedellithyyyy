@@ -7,6 +7,7 @@ I am a first-year business student at Ain Shams University,Full Stack Software E
 
 * 🌍  I'm based in Egypt,Cairo
 * 🖥️  See my portfolio at [Portfolio](mohamedellithy.com)
+* 🖥️  See my account on Codeforces at [Codeforces](https://codeforces.com/profile/mohamedellithyyy)
 * ✉️  You can contact me at [mohamedellithyyy@gmail.com](mailto:mohamedellithyyy@gmail.com)
 * 🧠  I'm learning Threejs, NEXTjs and React/React-Native
 * 🤝  I'm open to collaborating on any web or animation project
