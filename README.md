@@ -3,9 +3,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 -----------------------
 
-I am a first-year business student at Ain Shams University,Full Stack Software Engineering Currently pursuing an apprenticeship at alx_africa.
+I am currently studying the Foundation year at ITMO University, having been awarded a scholarship for pre-university courses focused on Russian language acquisition for the 2024/25 academic year. Following this, I will advance to the Bachelor Degree program in Information Science and Computer Engineering for the 2025/26 academic year. This opportunity was achieved through competitive selection, highlighting my dedication to academic excellence.
 
-* 🌍  I'm based in Egypt,Cairo
+
+* 🌍  I'm based in Russia,Saint Petersburg
 * 🖥️  See my portfolio at [Portfolio](mohamedellithy.com)
 * 🖥️  See my account on Codeforces at [Codeforces](https://codeforces.com/profile/mohamedellithyyy)
 * ✉️  You can contact me at [mohamedellithyyy@gmail.com](mailto:mohamedellithyyy@gmail.com)
