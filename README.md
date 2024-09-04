@@ -10,7 +10,7 @@ I am currently studying the Foundation year at ITMO University, having been awar
 * 🖥️  See my portfolio at [Portfolio](mohamedellithy.com)
 * 🖥️  See my account on Codeforces at [Codeforces](https://codeforces.com/profile/mohamedellithyyy)
 * ✉️  You can contact me at [mohamedellithyyy@gmail.com](mailto:mohamedellithyyy@gmail.com)
-* 🧠  I'm learning React/React-Native
+* 🧠  I'm learning Django
 * 🤝  I'm open to collaborating on any web or animation project
 * ⚡  I believe in the idea that education should be free
 
@@ -33,6 +33,7 @@ I am currently studying the Foundation year at ITMO University, having been awar
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F353657%2Fdjango-icon&psig=AOvVaw1Nkx8eJESPra6Cjaa9stwu&ust=1725560199334000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjq4OfyqYgDFQAAAAAdAAAAABAE)" width="36" height="36" alt="Premiere Pro" /></a>
 
 
 ### Socials
