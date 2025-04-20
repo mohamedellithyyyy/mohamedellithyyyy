@@ -8,7 +8,6 @@ I am currently studying the Foundation year at ITMO University, having been awar
 
 * 🌍  I'm based in Russia,Saint Petersburg
 * 🖥️  See my portfolio at [Portfolio](mohamedellithy.com)
-* 🖥️  See my account on Codeforces at [Codeforces](https://codeforces.com/profile/mohamedellithyyy)
 * ✉️  You can contact me at [mohamedellithyyy@gmail.com](mailto:mohamedellithyyy@gmail.com)
 * 🧠  I'm learning Django
 * 🤝  I'm open to collaborating on any web or animation project
