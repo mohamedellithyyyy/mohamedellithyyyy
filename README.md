@@ -27,13 +27,22 @@ I enjoy building **data pipelines**, integrating **APIs**, creating **interactiv
 | **Data Engineering Skills** | ETL pipelines, API integration, data visualization, automation scripting |
 
 ---
-## 🏆 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedellithyyyy&layout=compact&theme=radical&hide=html,css&cache_seconds=3600)
----
+## 🏆 My GitHub Stats
 
-## 📈 GitHub Stats
+<table>
+<tr>
+<td>
 
-<a href="http://www.github.com/mohamedellithyyyy">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedellithyyyy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
+### Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedellithyyyy&layout=compact&theme=radical&hide=html,css&cache_seconds=3600" />
+
+</td>
+<td>
+
+### GitHub Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedellithyyyy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+
+</td>
+</tr>
+</table>
