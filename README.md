@@ -27,6 +27,10 @@ I enjoy building **data pipelines**, integrating **APIs**, creating **interactiv
 | **Data Engineering Skills** | ETL pipelines, API integration, data visualization, automation scripting |
 
 ---
+## 🏆 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedellithyyyy&layout=compact&theme=radical)
+---
 
 ## 📈 GitHub Stats
 
