@@ -29,7 +29,7 @@ I enjoy building **data pipelines**, integrating **APIs**, creating **interactiv
 ---
 ## 🏆 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedellithyyyy&layout=compact&theme=radical)
+![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedellithyyyy&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedellithyyyy&layout=compact&theme=radical))
 ---
 
 ## 📈 GitHub Stats
