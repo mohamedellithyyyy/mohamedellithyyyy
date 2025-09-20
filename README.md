@@ -10,6 +10,7 @@ I enjoy building **data pipelines**, integrating **APIs**, creating **interactiv
 - 🌍 Based in **Saint Petersburg, Russia**
 - 🧠 Currently learning **Data Engineering**
 - 🖥️ Portfolio: [Portfolio](#)
+- 🖥️ LinkedIn:[click Here](https://www.linkedin.com/in/mohamedellithyyy/)
 - ✉️ Contact me: mohamedellithyyy@gmail.com
 
 ---
