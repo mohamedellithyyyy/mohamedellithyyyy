@@ -9,8 +9,8 @@ I enjoy building data pipelines, integrating APIs, creating interactive dashboar
 ## 📍 About Me
 - 🌍 Based in Saint Petersburg, Russia
 - 🧠 Currently learning Data Engineering
-- 🖥️ Portfolio: [Portfolio](#)
-- 🖥️ LinkedIn:[click Here](https://www.linkedin.com/in/mohamedellithyyy/)
+- 🖥️ Portfolio: [Portfolio](https://github.com/mohamedellithyyyy/)
+- 🖥️ LinkedIn: [click Here](https://www.linkedin.com/in/mohamedellithyyy/)
 - ✉️ Contact me: mohamedellithyyy@gmail.com
 
 
