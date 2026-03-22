@@ -51,7 +51,7 @@ First-year CS student who loves building things, exploring data, and learning so
 **Libraries & Frameworks**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat&logo=python&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
@@ -68,13 +68,7 @@ First-year CS student who loves building things, exploring data, and learning so
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohamedellithyyyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedellithyyyy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500" />
+<img src="https://github-readme-stats.vercel.app/api?username=mohamedellithyyyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedellithyyyy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
 
 </div>
 
@@ -91,3 +85,11 @@ First-year CS student who loves building things, exploring data, and learning so
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedellithyyy/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mohamedellithyyy@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mohamedellithyyyy/)
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=mohamedellithyyyy&style=flat&color=1D9E75&label=Profile+Views)
+
+</div>
