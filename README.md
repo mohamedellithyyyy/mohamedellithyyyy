@@ -24,7 +24,7 @@ First-year CS student who loves building things, exploring data, and learning so
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohamedellithyyyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedellithyyyy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=mohamedellithyyyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedellithyyyy&layout=compact&theme=tokyonight&hide_border=true&langs_count=1" height="165" />
 
 </div>
 
