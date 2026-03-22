@@ -48,6 +48,13 @@ First-year CS student who loves building things, exploring data, and learning so
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white)
 
+**Libraries & Frameworks**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat&logo=python&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+
 **APIs & Scripting**  
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat&logo=google&logoColor=white)
@@ -61,8 +68,13 @@ First-year CS student who loves building things, exploring data, and learning so
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohamedellithyyyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedellithyyyy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=mohamedellithyyyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedellithyyyy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500" />
 
 </div>
 
