@@ -41,7 +41,7 @@ First-year CS student who loves building things, exploring data, and learning so
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedellithyyy/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mohamedellithyyy@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mohamedellithyyyy/)
-[![Telegram](https://img.shields.io/badge/Telegram-181717?style=flat&logo=github&logoColor=white)](https://github.com/mohamedellithyyyy/)
+[![Telegram](https://img.shields.io/badge/Telegram-181717?style=flat&logo=telegram&logoColor=white)](https://github.com/mohamedellithyyyy/)
 
 
 ---
