@@ -11,7 +11,7 @@ First-year CS student who loves building things, exploring data, and learning so
 
 - 🌍 Based in **Saint Petersburg, Russia**
 - 🎓 BEng student at **ITMO University** — full scholarship recipient
-- 🧠 Currently deepening my skills in **Software Engineering & Data Engineering**
+- 🧠 Currently deepening my skills in **Software Engineering**
 - 📊 Data Enthusiast — I love turning raw data into meaningful insights
 - 🤝 Actively involved in volunteering and open-source contributions
 - ✉️ Reach me at: [mohamedellithyyy@gmail.com](mailto:mohamedellithyyy@gmail.com)
