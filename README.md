@@ -1,6 +1,6 @@
 # Hi there, I'm Mohamed Ellithy 👋
 
-**Software Engineer** | **Data Enthusiast** | BEng in Information Science & Computer Engineering  
+**Software Engineer** | **Data Enthusiast** | BEng in Information Science  & Computer Engineering  
 Studying on a full scholarship at **ITMO University**, Saint Petersburg 🇷🇺
 
 First-year CS student who loves building things, exploring data, and learning something new every day.
