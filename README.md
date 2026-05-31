@@ -20,21 +20,6 @@ First-year CS student who loves building things, exploring data, and learning so
 ---
 
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mohamedellithyyyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedellithyyyy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mohamedellithyyyy&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
